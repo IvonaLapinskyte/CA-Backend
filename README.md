@@ -1,2 +1,2 @@
-# CA-Backend
-Backend project for CodeAcademy exam
+# Backend
+Backend for CodeAcademy Project
